@@ -8,7 +8,7 @@ I'm a lifelong learner, and would love any opportunity to collaborate on any pro
 
 I'm proficient in Python, HTML, CSS, C, and Java
 
-I'm learning and growing in Javascript, Swift, and different web services such as Flask and Django
+I'm learning and growing in Javascript, Swift, C++, C#, and different web services such as Flask and Django
 
 ### Education
 
